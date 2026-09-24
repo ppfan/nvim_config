@@ -20,8 +20,6 @@ return {
         -- Python
         "pyright",
         "ruff",
-        -- Go
-        "gopls",
         -- C / C++
         "clangd",
         -- Bash
